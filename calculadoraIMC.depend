@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703391906 source:c:\users\felip\onedrive\documentos\github\calculadoraimc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
